@@ -1,0 +1,26 @@
+Capstone Project 2: Project Proposal
+
+https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+
+What is the problem you want to solve?
+.cell-images-for-detecting-malaria
+
+Who is your client and why do they care about this problem? In other words, what will your client do or decide based on your analysis that they wouldn’t have done otherwise?
+.It can be used by Medical Satff as Lab Technitian or Help Doctors 
+
+What data are you using? How will you acquire the data?
+.https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+.Using Kaggle data set from above link.
+
+Briefly outline how you’ll solve this problem. Your approach may change later, but this is a good first step to get you thinking about a method and solution.
+.Read the images 
+.Defining the Model
+.Build the Model 
+.Train the Model 
+.Calculate the 
+
+What are your deliverables? Typically, this includes code, a paper, or a slide deck.
+.Code 
+.Decsriptive Files [ PDF or DOC ]
+.upload the files on git repos 
+
